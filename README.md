@@ -1,2 +1,1 @@
-# rebase
-rebase
+This is Readme for rebase project.
